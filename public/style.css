@@ -75,7 +75,7 @@ html{
 }
 .home{
     display: flex;
-    background: url("https://cdn.pixabay.com/photo/2021/09/01/10/43/music-6591030_1280.jpg") no-repeat center;
+    background: url("https://cdn.pixabay.com/photo/2020/01/29/20/24/building-4803602_1280.jpg") no-repeat center;
     height: 100vh;
     color: #111;
     min-height: 500px;
